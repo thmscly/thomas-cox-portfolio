@@ -1,12 +1,11 @@
 import React from "react";
+import NavBar from "@/Components/NavBar";
 
 function Projects() {
     return (
         <div>
             <div className="font-mono text-green-600 text-center max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div className="text-green-600 fixed top-0 right-0 px-6 py-4 sm:block">
-                    <a href="/">Home</a>
-                </div>
+                <NavBar />
 
                 <div className=" text-6xl m-8 dark:bg-gray-800 overflow-hidden">
                     <h1>Projects</h1>
@@ -41,7 +40,7 @@ function Projects() {
                         <div className="text-4xl m-3">
                             <a href="/projects">GitHub</a>
                             <p className="text-base m-2">
-                                Here be repos. My repos.
+                                That way lies Repos.
                             </p>
                         </div>
                     </a>
