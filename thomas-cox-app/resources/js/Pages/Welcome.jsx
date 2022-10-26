@@ -64,7 +64,7 @@ export default function Welcome(props) {
                                 <a href="/projects">Projects</a>
                                 <p className="text-base m-2">
                                     Click here to find links, GitHub repos and
-                                    even a choose-your-own adventure game!
+                                    see what I'm working on.
                                 </p>
                             </div>
                         </a>

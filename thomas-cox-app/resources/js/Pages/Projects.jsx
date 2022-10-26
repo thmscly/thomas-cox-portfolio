@@ -28,11 +28,16 @@ function Projects() {
                                 </p>
                             </div>
                         </a>
-                        <a href="/projects">
+                        <a
+                            href="https://github.com/thmscly/rachel-cox-art-stripe-shopping-app.git"
+                            target="_blank"
+                        >
                             <div className="text-4xl m-3">
-                                Adventure Time!
+                                Full-Stack E-commerce
                                 <p className="text-base m-2">
-                                    Can you fix the spaceship and get home?
+                                    The repo to a different approach
+                                    rachelcoxart.com with a Laravel/React
+                                    structure with a Stripe API integration.
                                 </p>
                             </div>
                         </a>
