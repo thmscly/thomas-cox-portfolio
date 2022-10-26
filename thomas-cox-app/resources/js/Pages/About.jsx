@@ -32,7 +32,7 @@ function About() {
                 </p>
                 <p className="indent-10 m-4 text-center">
                     <strong>
-                        <u>My techs include:</u>
+                        <u>My Techs:</u>
                     </strong>
                     <ul className="">
                         <li className="indent-8">Laravel 9</li>
@@ -53,18 +53,19 @@ function About() {
                     although the program has issues and lacks good support.
                 </p>
                 <p className="indent-10 m-4">
-                    I have a BS in Psychology from UTC. I'm currently working in
-                    healthcare as a pediatric Certified Medical Assistant with
-                    expired aspirations of becoming a Physician Assistant.
+                    I have a BS in Psychology from the University of Tennessee
+                    at Chattanooga. I'm currently working in healthcare as a
+                    pediatric Certified Medical Assistant.
                 </p>
                 <p className="indent-10 m-4">
                     I'm an Eagle Scout, a drummer, a movie-lover, and a new dad.
                 </p>
                 <p className="indent-10 m-4">
                     I've always had a deep interest in writing, creative
-                    outlets, and especially in how things work, including
-                    people. So, with wide eyes and a healthy amount of naivete,
-                    I decided early on to become a psychologist.
+                    outlets, and especially in how things work - including
+                    people. So, with wide eyes, a desire to help, and a healthy
+                    amount of naivete, I figured early on I would become a
+                    psychologist.
                 </p>
                 <p className="indent-10 m-4">
                     After 4 years of psychology, I decided I did not, in fact,
