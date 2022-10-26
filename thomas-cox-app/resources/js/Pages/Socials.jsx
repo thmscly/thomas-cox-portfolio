@@ -15,30 +15,22 @@ function Socials() {
                 </div>
                 <hr />
                 <div className="grid grid-cols-3 gap-4 m-5">
-                    <a href="https://rachelcoxart.com/">
-                        <div className="text-4xl m-3">
-                            GitHub
-                            <p className="text-base m-2">
-                                An e-commerce shopping site built with React to
-                                sell my wife's art. It's deployed with Netlify
-                                and will have a Stripe integration.
-                            </p>
-                        </div>
+                    <a
+                        href="https://www.linkedin.com/in/thomas-tc-cox/"
+                        target="_blank"
+                    >
+                        <div className="text-4xl m-3">LinkedIn</div>
                     </a>
-                    <a href="/projects">
-                        <div className="text-4xl m-3">
-                            Adventure? Choose your own!
-                            <p className="text-base m-2">
-                                Can you fix the spaceship and get home?
-                            </p>
-                        </div>
+                    <a href="https://github.com/thmscly" target="_blank">
+                        <div className="text-4xl m-3">GitHub</div>
                     </a>
-                    <a href="/projects">
+                    <a
+                        href="https://discord.com/channels/@T.C.#3573"
+                        target="_blank"
+                    >
                         <div className="text-4xl m-3">
-                            GitHub
-                            <p className="text-base m-2">
-                                That way lies Repos.
-                            </p>
+                            Discord
+                            <p className="text-base m-2">T.C.#3573</p>
                         </div>
                     </a>
                 </div>
