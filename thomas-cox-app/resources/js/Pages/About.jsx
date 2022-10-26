@@ -1,12 +1,10 @@
 import React from "react";
+import NavBar from "@/Components/NavBar";
 
 function About() {
     return (
         <div className="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
-            <div className="text-green-600 fixed top-0 right-0 px-6 py-4 sm:block">
-                <a href="/">Home</a>
-            </div>
-
+            <NavBar />
             <div className="bg-black font-mono text-green-600 text-left max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1 className="mt-10 mb-0 text-center text-4xl">
                     Thomas Cox: <br /> <em>A Shorty Story</em>
@@ -55,7 +53,8 @@ function About() {
                 </p>
                 <p className="indent-10 m-4">
                     I have a BS in Psychology from UTC. I'm currently working in
-                    healthcare as a pediatric Certified Medical Assistant.
+                    healthcare as a pediatric Certified Medical Assistant with
+                    expired aspirations of becoming a Physician Assistant.
                 </p>
                 <p className="indent-10 m-4">
                     I'm an Eagle Scout, a drummer, a movie-lover, and a new dad.
