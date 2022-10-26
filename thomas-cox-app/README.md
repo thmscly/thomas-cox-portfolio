@@ -17,4 +17,6 @@ All of the routing can be found in routing/web.php.
 
 All of the pages can be found in resources/js/Pages.
 
+Users will eventually be able to join an automated email chain for updates.
+
 It's currently being deployed through Netlify.
