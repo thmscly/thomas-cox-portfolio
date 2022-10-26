@@ -54,9 +54,7 @@ export default function Welcome(props) {
                                 About
                                 <p className="text-base m-2">
                                     Who am I? That's a toughie. Click here and
-                                    I'll walk you through my coding journey all
-                                    the way from Creative Writing to
-                                    StackOverflow.
+                                    I'll walk you through my coding journey.
                                 </p>
                             </div>
                         </a>
@@ -64,7 +62,7 @@ export default function Welcome(props) {
                             <div className="text-4xl m-3">
                                 Projects
                                 <p className="text-base m-2">
-                                    Click here to find links, GitHub repos and
+                                    Click here to find links, GitHub repos, and
                                     see what I'm working on.
                                 </p>
                             </div>
@@ -73,13 +71,14 @@ export default function Welcome(props) {
                             <div className="text-4xl m-3">
                                 Socials
                                 <p className="text-base m-2">
-                                    Click here to find me on LinkedIn and
-                                    GitHub.
+                                    Click here to find me on the Interwebs.
                                 </p>
                             </div>
                         </a>
                     </div>
-                    <EmailButton />
+                    <div className="flex-grow">
+                        <EmailButton />
+                    </div>
                 </div>
             </div>
         </>
