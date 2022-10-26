@@ -22,9 +22,9 @@ function Projects() {
                         <div className="text-4xl m-3">
                             Rachel Cox Art
                             <p className="text-base m-2">
-                                An e-commerce shopping site built with React to
-                                sell my wife's art. It's deployed with Netlify
-                                and will have a Stripe integration.
+                                An e-commerce shopping-cart site built with
+                                React to sell my wife's art. It's deployed with
+                                Netlify and will have a Stripe integration.
                             </p>
                         </div>
                     </a>
@@ -62,7 +62,7 @@ function Projects() {
                         </div>
                     </a>
                 </div>
-                <div className="m-5 text-center">
+                <div className="m-10 text-center">
                     <EmailButton />
                 </div>
             </div>
