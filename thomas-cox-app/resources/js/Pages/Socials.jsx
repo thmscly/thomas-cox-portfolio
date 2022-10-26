@@ -16,7 +16,7 @@ function Socials() {
                 <div className="grid grid-cols-3 gap-4 m-5">
                     <a href="https://rachelcoxart.com/">
                         <div className="text-4xl m-3">
-                            <a href="/about">GitHub</a>
+                            GitHub
                             <p className="text-base m-2">
                                 An e-commerce shopping site built with React to
                                 sell my wife's art. It's deployed with Netlify
@@ -26,7 +26,7 @@ function Socials() {
                     </a>
                     <a href="/projects">
                         <div className="text-4xl m-3">
-                            <a href="/projects">Adventure? Choose your own!</a>
+                            Adventure? Choose your own!
                             <p className="text-base m-2">
                                 Can you fix the spaceship and get home?
                             </p>
@@ -34,7 +34,7 @@ function Socials() {
                     </a>
                     <a href="/projects">
                         <div className="text-4xl m-3">
-                            <a href="/projects">GitHub</a>
+                            GitHub
                             <p className="text-base m-2">
                                 That way lies Repos.
                             </p>
