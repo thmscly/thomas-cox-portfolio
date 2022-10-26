@@ -35,12 +35,12 @@ function About() {
                         <u>My techs include:</u>
                     </strong>
                     <ul className="">
-                        <li className="indent-8">GitHub</li>
-                        <li className="indent-8">PHP</li>
-                        <li className="indent-8">Javascript</li>
-                        <li className="indent-8">JSX</li>
                         <li className="indent-8">Laravel 9</li>
                         <li className="indent-8">React</li>
+                        <li className="indent-8">Javascript</li>
+                        <li className="indent-8">JSX</li>
+                        <li className="indent-8">PHP</li>
+                        <li className="indent-8">GitHub</li>
                         <li className="indent-8">MySql</li>
                         <li className="indent-8">TailwindCSS</li>
                     </ul>
