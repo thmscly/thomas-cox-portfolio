@@ -18,9 +18,9 @@ function Projects() {
                     </div>
                     <hr />
                     <div className="grid grid-cols-3 gap-5 m-5 justify-items-center">
-                        <a href="https://rachelcoxart.com/">
+                        <a href="https://rachelcoxart.com/" target="_blank">
                             <div className="text-4xl m-3">
-                                <a href="/about">Rachel Cox Art</a>
+                                Rachel Cox Art
                                 <p className="text-base m-2">
                                     An e-commerce shopping site built with React
                                     to sell my wife's art. It's deployed with
@@ -30,23 +30,26 @@ function Projects() {
                         </a>
                         <a href="/projects">
                             <div className="text-4xl m-3">
-                                <a href="/projects">Adventure Time!</a>
+                                Adventure Time!
                                 <p className="text-base m-2">
                                     Can you fix the spaceship and get home?
                                 </p>
                             </div>
                         </a>
-                        <a href="https://github.com/thmscly">
+                        <a href="https://github.com/thmscly" target="_blank">
                             <div className="text-4xl m-3">
-                                <a href="/projects">GitHub</a>
+                                GitHub
                                 <p className="text-base m-2">
                                     That way lies Repos.
                                 </p>
                             </div>
                         </a>
-                        <a href="https://github.com/thmscly/thomas-cox-portfolio.git">
+                        <a
+                            href="https://github.com/thmscly/thomas-cox-portfolio.git"
+                            target="_blank"
+                        >
                             <div className="text-4xl m-3">
-                                <a href="/projects">Source Code</a>
+                                Source Code
                                 <p className="text-base m-2">
                                     Here's the source code for what you're
                                     seeing right now.
