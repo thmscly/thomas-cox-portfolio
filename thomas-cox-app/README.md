@@ -5,6 +5,8 @@ It's my portfolio site and it was built using the following technologies:
 <ul>
 <li>Laravel 9</li>
 <li>React</li>
+<li>JSX</li>
+<li>TailwindCSS</li>
 <li>InertiaJS</li>
 <li>Docker</li>
 </ul>
