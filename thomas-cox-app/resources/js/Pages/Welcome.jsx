@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, Head } from "@inertiajs/inertia-react";
+import EmailButton from "@/Components/EmailButton";
 
 export default function Welcome(props) {
     return (
@@ -78,6 +79,7 @@ export default function Welcome(props) {
                             </div>
                         </a>
                     </div>
+                    <EmailButton />
                 </div>
             </div>
         </>

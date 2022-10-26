@@ -1,5 +1,6 @@
 import React from "react";
 import NavBar from "@/Components/NavBar";
+import EmailButton from "@/Components/EmailButton";
 
 function About() {
     return (

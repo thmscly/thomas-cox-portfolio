@@ -2,6 +2,7 @@ import React from "react";
 import NavBar from "@/Components/NavBar";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
+import EmailButton from "@/Components/EmailButton";
 
 function Socials() {
     return (
@@ -37,6 +38,7 @@ function Socials() {
                         </div>
                     </a>
                 </div>
+                <EmailButton />
             </div>
         </div>
     );

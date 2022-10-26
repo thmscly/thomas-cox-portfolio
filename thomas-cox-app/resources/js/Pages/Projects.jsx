@@ -7,7 +7,7 @@ function Projects() {
             <div className="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
                 <div className="font-mono text-green-600 text-center max-w-6xl mx-auto sm:px-6 lg:px-8 bg-black">
                     <NavBar />
-                    <div className=" text-6xl m-10 dark:bg-gray-800">
+                    <div className=" text-6xl m-20 dark:bg-gray-800">
                         <h1>Projects</h1>
                     </div>
                     <div className="text-3xl m-7 dark:bg-gray-800 overflow-hidden">
