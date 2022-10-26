@@ -50,7 +50,7 @@ export default function Welcome(props) {
                     <div className="grid grid-cols-3 gap-4 m-5">
                         <a href="/about">
                             <div className="text-4xl m-3">
-                                <a href="/about">About</a>
+                                About
                                 <p className="text-base m-2">
                                     Who am I? That's a toughie. Click here and
                                     I'll walk you through my coding journey all
@@ -61,16 +61,16 @@ export default function Welcome(props) {
                         </a>
                         <a href="/projects">
                             <div className="text-4xl m-3">
-                                <a href="/projects">Projects</a>
+                                Projects
                                 <p className="text-base m-2">
                                     Click here to find links, GitHub repos and
                                     see what I'm working on.
                                 </p>
                             </div>
                         </a>
-                        <a href="/projects">
+                        <a href="/socials">
                             <div className="text-4xl m-3">
-                                <a href="/projects">Socials</a>
+                                Socials
                                 <p className="text-base m-2">
                                     Click here to find me on LinkedIn and
                                     GitHub.
