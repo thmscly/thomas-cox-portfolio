@@ -36,7 +36,7 @@ function Projects() {
                                 </p>
                             </div>
                         </a>
-                        <a href="/projects">
+                        <a href="https://github.com/thmscly">
                             <div className="text-4xl m-3">
                                 <a href="/projects">GitHub</a>
                                 <p className="text-base m-2">
