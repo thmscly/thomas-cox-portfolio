@@ -35,5 +35,8 @@ Route::get('/about', function () {
 Route::get('/projects', function () {
     return Inertia::render('Projects');
 });
+Route::get('/socials', function () {
+    return Inertia::render('Socials');
+});
 
 require __DIR__.'/auth.php';
