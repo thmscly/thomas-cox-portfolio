@@ -84,6 +84,9 @@ function About() {
                     Full-Stack developer I can be. I can't wait to meet you and
                     talk code.
                 </p>
+                <div className="m-5 text-center">
+                    <EmailButton />
+                </div>
             </div>
         </div>
     );
