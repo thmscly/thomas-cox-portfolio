@@ -83,7 +83,7 @@ export default function Welcome(props) {
                         </a>
                         <a href="/projects">
                             <div className="text-4xl m-3">
-                                <a href="/projects">Social</a>
+                                <a href="/projects">Socials</a>
                                 <p className="text-base m-2">
                                     Click here to find me on LinkedIn and
                                     GitHub.

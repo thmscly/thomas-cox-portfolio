@@ -17,7 +17,7 @@ function Projects() {
                     </h2>
                 </div>
                 <hr />
-                <div className="grid grid-cols-3 gap-4 m-5">
+                <div className="grid grid-cols-3 gap-5 m-5">
                     <a href="https://rachelcoxart.com/">
                         <div className="text-4xl m-3">
                             <a href="/about">Rachel Cox Art</a>
@@ -41,6 +41,15 @@ function Projects() {
                             <a href="/projects">GitHub</a>
                             <p className="text-base m-2">
                                 That way lies Repos.
+                            </p>
+                        </div>
+                    </a>
+                    <a href="/projects">
+                        <div className="text-4xl m-3">
+                            <a href="/projects">This Site's source code</a>
+                            <p className="text-base m-2">
+                                Here's the source code for what you're seeing
+                                right now.
                             </p>
                         </div>
                     </a>
