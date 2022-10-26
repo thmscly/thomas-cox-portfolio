@@ -1,5 +1,7 @@
 import React from "react";
 import NavBar from "@/Components/NavBar";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import GitHubIcon from "@mui/icons-material/GitHub";
 
 function Socials() {
     return (
@@ -20,9 +22,11 @@ function Socials() {
                         target="_blank"
                     >
                         <div className="text-4xl m-3">LinkedIn</div>
+                        <LinkedInIcon />
                     </a>
                     <a href="https://github.com/thmscly" target="_blank">
                         <div className="text-4xl m-3">GitHub</div>
+                        <GitHubIcon />
                     </a>
                     <a
                         href="https://discord.com/channels/@T.C.#3573"
