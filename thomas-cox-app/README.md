@@ -1,4 +1,4 @@
-This is a website built by Thomas "T.C." Cox, a full-stack web developer.
+This is a website built by Thomas "T.C." Cox, a full-stack engineer.
 
 It's my portfolio site and it was built using the following technologies:
 
