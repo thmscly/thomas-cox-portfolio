@@ -11,10 +11,7 @@ function Projects() {
                     <h1>Projects</h1>
                 </div>
                 <div className="text-3xl m-7 dark:bg-gray-800 overflow-hidden">
-                    <h2>
-                        Some of of the things I've built and my
-                        works-in-progress.
-                    </h2>
+                    <h2>Here's what I've been working on.</h2>
                 </div>
                 <hr />
                 <div className="grid grid-cols-3 gap-5 m-5 justify-items-center">
@@ -45,7 +42,7 @@ function Projects() {
                         <div className="text-4xl m-3">
                             GitHub
                             <p className="text-base m-2">
-                                That way lies Repos.
+                                That way lies repos.
                             </p>
                         </div>
                     </a>
@@ -56,8 +53,7 @@ function Projects() {
                         <div className="text-4xl m-3">
                             Source Code
                             <p className="text-base m-2">
-                                Here's the source code for what you're seeing
-                                right now.
+                                The repo to what you're seeing right now.
                             </p>
                         </div>
                     </a>
