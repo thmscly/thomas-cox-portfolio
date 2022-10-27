@@ -22,4 +22,4 @@ All of the pages can be found in resources/js/Pages.
 
 Users will eventually be able to join an automated email chain for updates.
 
-It's currently being deployed through Netlify.
+It's currently being deployed through Laravel Vapor/AWS.
