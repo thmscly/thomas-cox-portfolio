@@ -5,8 +5,8 @@ import EmailButton from "@/Components/EmailButton";
 function Projects() {
     return (
         <div className="relative flex items-top justify-center overflow-hidden min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
+            <NavBar />
             <div className="font-mono overflow-hidden text-green-600 text-center max-w-6xl mx-auto sm:px-6 lg:px-8 bg-black">
-                <NavBar />
                 <div className="text-center text-6xl mt-20 dark:bg-gray-800">
                     <h1>Projects</h1>
                 </div>
