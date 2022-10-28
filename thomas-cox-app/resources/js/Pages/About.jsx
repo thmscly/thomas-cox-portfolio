@@ -24,6 +24,7 @@ function About() {
                 <p className="0 m-4 text-center text-lg">
                     I'm T.C.
                     <br />
+                    <br />
                     I'm a{" "}
                     <u>
                         <em>Full-stack Engineer</em>
