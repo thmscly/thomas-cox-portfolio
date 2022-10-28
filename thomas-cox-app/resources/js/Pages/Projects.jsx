@@ -14,7 +14,7 @@ function Projects() {
                     <h2>Here's what I've been working on.</h2>
                 </div>
                 <hr />
-                <div className="grid grid-cols-3 gap-5 m-5 justify-items-center">
+                <div className="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-3 gap-5 m-5 justify-items-center">
                     <a href="https://rachelcoxart.com/" target="_blank">
                         <div className="text-4xl m-3">
                             Rachel Cox Art
