@@ -6,7 +6,7 @@ import EmailButton from "@/Components/EmailButton";
 
 function Socials() {
     return (
-        <div className="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
+        <div className="relative flex items-top justify-center overflow-hidden min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
             <div className="font-mono text-green-600 text-center max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <NavBar />
                 <div className=" text-6xl m-8 dark:bg-gray-800 overflow-hidden">
