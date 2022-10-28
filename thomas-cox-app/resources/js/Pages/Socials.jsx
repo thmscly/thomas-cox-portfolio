@@ -16,27 +16,33 @@ function Socials() {
                     <h2>Here's how you can find me on the web.</h2>
                 </div>
                 <hr />
-                <div className="grid grid-cols-3 gap-4 m-5">
-                    <a
-                        href="https://www.linkedin.com/in/thomas-tc-cox/"
-                        target="_blank"
-                    >
-                        <div className="text-4xl m-3">LinkedIn</div>
-                        <LinkedInIcon />
-                    </a>
-                    <a href="https://github.com/thmscly" target="_blank">
-                        <div className="text-4xl m-3">GitHub</div>
-                        <GitHubIcon />
-                    </a>
-                    <a
-                        href="https://discord.com/channels/@T.C.#3573"
-                        target="_blank"
-                    >
-                        <div className="text-4xl m-3">
-                            Discord
-                            <p className="text-base m-2">T.C.#3573</p>
-                        </div>
-                    </a>
+                <div className="grid flex grid-cols-1 gap-4 m-5 sm:bg-blue md:grid-cols-3 sm:grid-cols-3">
+                    <div className="flex-col">
+                        <a
+                            href="https://www.linkedin.com/in/thomas-tc-cox/"
+                            target="_blank"
+                        >
+                            <div className="text-4xl m-3">LinkedIn</div>
+                            <LinkedInIcon />
+                        </a>
+                    </div>
+                    <div className="flex-wrap">
+                        <a href="https://github.com/thmscly" target="_blank">
+                            <div className="text-4xl m-3">GitHub</div>
+                            <GitHubIcon />
+                        </a>
+                    </div>
+                    <div className="flex-col">
+                        <a
+                            href="https://discord.com/channels/@T.C.#3573"
+                            target="_blank"
+                        >
+                            <div className="text-4xl m-3">
+                                Discord
+                                <p className="text-base m-2">T.C.#3573</p>
+                            </div>
+                        </a>
+                    </div>
                 </div>
                 <EmailButton />
             </div>
