@@ -21,7 +21,7 @@ function About() {
                         allowFullScreen
                     ></iframe>
                 </div>
-                <p className="indent-10 m-4 text-center text-lg">
+                <p className="0 m-4 text-center text-lg">
                     I'm T.C.
                     <br />
                     I'm a{" "}
@@ -30,48 +30,48 @@ function About() {
                     </u>{" "}
                     learning the ins and outs of programming.
                 </p>
-                <p className="indent-10 m-4 text-center">
+                <p className="m-4 text-center">
                     <strong>
                         <u>My Techs:</u>
                     </strong>
-                    <ul className="">
-                        <li className="indent-8">Laravel 9</li>
-                        <li className="indent-8">React</li>
-                        <li className="indent-8">Javascript</li>
-                        <li className="indent-8">JSX</li>
-                        <li className="indent-8">PHP</li>
-                        <li className="indent-8">GitHub</li>
-                        <li className="indent-8">MySql</li>
-                        <li className="indent-8">TailwindCSS</li>
+                    <ul className="text-center">
+                        <li className="">Laravel 9</li>
+                        <li className="">React</li>
+                        <li className="">Javascript</li>
+                        <li className="">JSX</li>
+                        <li className="">PHP</li>
+                        <li className="">GitHub</li>
+                        <li className="">MySql</li>
+                        <li className="">TailwindCSS</li>
                     </ul>
                 </p>
-                <p className="indent-10 m-4">
+                <p className=" m-4">
                     I have a Certificate in Laravel 9 from LinkedIn Learning,
                     have completed several courses in SoloLearn including React
                     and PHP, have followed countless tutorials on YouTube, and
                     am enrolled in a Full Stack Nanodegree from Udacity,
                     although the program has issues and lacks good support.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     I have a BS in Psychology from the University of Tennessee
                     at Chattanooga. I'm currently working in healthcare as a
                     pediatric Certified Medical Assistant.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     I'm an Eagle Scout, a drummer, a movie-lover, and a new dad.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     I've always had a deep interest in creative writing, writing
                     and playing music, creative outlets, as well as{" "}
                     <em>how things work</em> - including people. So, with wide
                     eyes, a desire to help, and a healthy amount of naivete, I
                     figured early on I would become a psychologist.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     After 4 years of psychology, I decided I did not, in fact,
                     want to be a psychologist.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     Throughout the entirety of my working life, I've tried to
                     find something that would satisfy my curiosities of how
                     things work along with my love for creativity and artistic
@@ -79,7 +79,7 @@ function About() {
                     Programming cleanly and concisely tells its own story and,
                     just like writing, takes practice.
                 </p>
-                <p className="indent-10 m-4">
+                <p className="0 m-4">
                     This portfolio site and the projects in it are my practice
                     stories -- rough drafts in my journey to becoming the best
                     full-stack engineer I can be. I can't wait to meet you and
