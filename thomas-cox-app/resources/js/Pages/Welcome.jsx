@@ -6,7 +6,7 @@ export default function Welcome(props) {
     return (
         <>
             <Head title="Welcome" />
-            <div className="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
+            <div className="relative flex items-top justify-center overflow-hidden min-h-screen dark:bg-gray-900 max-w-full sm:items-center sm:pt-0 bg-black">
                 <div className="fixed top-0 right-0 px-6 py-4 sm:block">
                     {props.auth.user ? (
                         <Link
