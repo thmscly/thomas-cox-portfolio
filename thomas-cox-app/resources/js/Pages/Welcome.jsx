@@ -48,7 +48,7 @@ export default function Welcome(props) {
                         <h2>Full-stack Engineer</h2>
                     </div>
                     <hr />
-                    <div className="grid grid-cols-3 gap-4 m-5">
+                    <div className="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-3 gap-4 m-5">
                         <a href="/about">
                             <div className="text-4xl m-3">
                                 About
