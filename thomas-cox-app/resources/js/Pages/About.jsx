@@ -8,7 +8,7 @@ function About() {
             <NavBar />
             <div className="bg-black font-mono text-green-600 text-left max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1 className="mt-20 text-center text-4xl">
-                    Thomas Cox: <br /> <em>A Shorty Story</em>
+                    Thomas Cox: <br /> <em>A Short Story</em>
                 </h1>
                 <p className="text-center m-5 mb-5 text-xl">Hello, there.</p>
                 <div className="flex justify-center">
