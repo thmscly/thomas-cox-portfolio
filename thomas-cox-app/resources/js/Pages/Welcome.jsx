@@ -6,7 +6,7 @@ export default function Welcome(props) {
     return (
         <>
             <Head title="Welcome" />
-            <div className="relative flex items-top justify-center overflow-hidden min-h-screen dark:bg-gray-900 max-w-full sm:items-center sm:pt-0 bg-black">
+            <div className="relative flex items-top justify-center overflow-hidden min-h-screen max-w-full sm:items-center sm:pt-0 bg-black">
                 <div className="fixed top-0 right-0 px-6 py-4 sm:block">
                     {props.auth.user ? (
                         <Link
@@ -41,10 +41,10 @@ export default function Welcome(props) {
                 </div>
 
                 <div className="font-mono text-green-600 text-center max-w-6xl mx-auto sm:px-6 lg:px-8">
-                    <div className=" text-6xl m-8 dark:bg-gray-800 overflow-hidden">
+                    <div className=" text-6xl m-8 dark:bg-black overflow-hidden">
                         <h1>Thomas Cox</h1>
                     </div>
-                    <div className="text-4xl m-7 dark:bg-gray-800 overflow-hidden">
+                    <div className="text-4xl m-7 dark:bg-black overflow-hidden">
                         <h2>Full-stack Engineer</h2>
                     </div>
                     <hr />
