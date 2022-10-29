@@ -14,14 +14,23 @@ function Projects() {
                     <h2>Here's what I've been working on.</h2>
                 </div>
                 <hr />
-                <div className="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-3 gap-5 m-5 justify-items-center">
+                <div className="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-3 gap-5 m-5">
                     <a href="https://rachelcoxart.com/" target="_blank">
                         <div className="text-4xl m-3">
                             Rachel Cox Art
                             <p className="text-base m-2">
-                                An e-commerce shopping-cart site built with
-                                React to sell my wife's art. It's deployed with
-                                Netlify and will have a Stripe integration.
+                                An in-progress e-commerce shopping-cart site
+                                built with React to sell my wife's art. It's
+                                deployed with Netlify and will have a Stripe
+                                integration.
+                                <a
+                                    href="https://github.com/thmscly/rachel-cox-art-shopping-app.git"
+                                    target="_blank"
+                                >
+                                    <u>
+                                        <em>Link to repo</em>
+                                    </u>
+                                </a>
                             </p>
                         </div>
                     </a>
@@ -32,9 +41,9 @@ function Projects() {
                         <div className="text-4xl m-3">
                             Full-Stack E-commerce
                             <p className="text-base m-2">
-                                The repo to a different approach
+                                The repo to a different approach to
                                 rachelcoxart.com with a Laravel/React structure
-                                with a Stripe API integration.
+                                with a Stripe API integration. In progress.
                             </p>
                         </div>
                     </a>
