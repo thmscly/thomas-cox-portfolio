@@ -4,7 +4,7 @@ import EmailButton from "@/Components/EmailButton";
 
 function About() {
     return (
-        <div className="relative flex items-top justify-center min-h-screen dark:bg-gray-900 sm:items-center sm:pt-0 bg-black">
+        <div className="relative flex items-top justify-center min-h-screen sm:items-center sm:pt-0 bg-black">
             <NavBar />
             <div className="bg-black font-mono text-green-600 text-left max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <h1 className="mt-20 text-center text-4xl">
